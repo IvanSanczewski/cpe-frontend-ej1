@@ -32,7 +32,6 @@ nav {
 }
 
 nav > div {
-
     padding: 0.5em 1em;
 }
 
@@ -55,7 +54,6 @@ nav > div:nth-last-child(3) {
 
     margin-top: .5em;
     padding: 1em 1em;
-
 }
 
 .search > div {
@@ -83,13 +81,11 @@ article {
 
     margin: 1em;
     padding: 1em;
-
 }
 
 .article-container {
     display: flex;
     column-gap: 1em;
-
 }
 
 .article-container > div {
@@ -125,7 +121,6 @@ aside > div {
 
     /* margin-bottom: .5em; */
     padding: .5em 0;
-
 }
 
 footer {
