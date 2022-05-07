@@ -42,7 +42,7 @@ nav > div:nth-last-child(1) {
 }
 
 nav > div:nth-last-child(2) {
-    flex: 4 1 0;
+    flex: 7 1 0;
     margin-left: 1em;
 }
 
@@ -55,7 +55,6 @@ nav > div:nth-last-child(3) {
 
     margin-top: .5em;
     padding: 1em 1em;
-
 }
 
 .search > div {
@@ -167,7 +166,6 @@ T A B L E T
     
         margin: 1em;
         padding: 1em;
-    
     }
 
     aside {
@@ -180,8 +178,6 @@ T A B L E T
         margin: 0 1em 1em 1em;
         padding: 1em;
     }
-    
-
 }
 
 
@@ -202,7 +198,6 @@ M O B I L E
     }
     
     nav > div {
-    
         padding: 0.5em 1em;
     }
     
@@ -220,10 +215,12 @@ M O B I L E
         flex: 1 1 0;
     }
 
-
-
-
-
+    .search {
+        height: 100%;
+    
+        margin-top: 1em;
+        padding: 1em 1em;
+    }
 
     main {
         display: flex;
@@ -246,7 +243,6 @@ M O B I L E
     
         margin: 1em;
         padding: 1em;
-    
     }
 
     .article-container {

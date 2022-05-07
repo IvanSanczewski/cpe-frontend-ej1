@@ -42,7 +42,7 @@ nav > div:nth-last-child(1) {
 }
 
 nav > div:nth-last-child(2) {
-    flex: 4 1 0;
+    flex: 7 1 0;
     margin-left: 1em;
 }
 
@@ -100,7 +100,6 @@ article {
     
     background-color: rgb(167, 198, 223);
 }
-
 
 .resumen {
     margin-bottom: 0;
